@@ -203,7 +203,7 @@ export default function Home() {
 </div>
 
 <div className=" xxs:pb-14 xxs:text-l h-12 pt-3 text-xl bg-gray-300 text-center">
- Wedad Ajeeb © 2023
+ Wedad Ajeeb © 2024
 </div>
     </div>
   )
