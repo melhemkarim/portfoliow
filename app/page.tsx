@@ -75,8 +75,9 @@ export default function Home() {
             alt="Your Logo"
             className=" p-8" // Set the height as per your design
           />
-          <img
-            src="/p13.jpg"  // <-- Path to the image in the public directory
+         
+         <img
+            src="/p26.jpg"  // <-- Path to the image in the public directory
             alt="Your Logo"
             className="  p-8" // Set the height as per your design
           />
@@ -90,17 +91,17 @@ export default function Home() {
 <div className="gallery lg:columns-3  sm:flex-row container left-0 mx-auto">
 
 <img
-            src="/p20.jpg"  // <-- Path to the image in the public directory
+            src="/p30.jpeg"  // <-- Path to the image in the public directory
             alt="Your Logo"
             className=" p-8" // Set the height as per your design
           />
           <img
-            src="/p21.jpg"  // <-- Path to the image in the public directory
+            src="/p31.jpeg"  // <-- Path to the image in the public directory
             alt="Your Logo"
             className="  p-8" // Set the height as per your design
           />
           <img
-            src="/p23.jpg"  // <-- Path to the image in the public directory
+            src="/p32.jpeg"  // <-- Path to the image in the public directory
             alt="Your Logo"
             className="  p-8" // Set the height as per your design
           />
@@ -109,7 +110,7 @@ export default function Home() {
 <div className="gallery lg:columns-3  sm:flex-row container left-0 mx-auto">
 
 <img
-            src="/p15.jpg"  // <-- Path to the image in the public directory
+            src="/p33.jpeg"  // <-- Path to the image in the public directory
             alt="Your Logo"
             className=" p-8" // Set the height as per your design
           />
@@ -165,21 +166,7 @@ export default function Home() {
 </div>
 <div className="gallery lg:columns-3  sm:flex-row container left-0 mx-auto">
 
-<img
-            src="/p4.jpg"  // <-- Path to the image in the public directory
-            alt="Your Logo"
-            className=" p-8" // Set the height as per your design
-          />
-          <img
-            src="/p5.jpg"  // <-- Path to the image in the public directory
-            alt="Your Logo"
-            className="  p-8" // Set the height as per your design
-          />
-          <img
-            src="/p26.jpg"  // <-- Path to the image in the public directory
-            alt="Your Logo"
-            className="  p-8" // Set the height as per your design
-          />
+
 
 </div>
 <div className="gallery lg:columns-3 pb-10 sm:flex-row container left-0 mx-auto">
